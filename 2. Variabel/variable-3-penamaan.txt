@@ -1,0 +1,28 @@
+### penamaan variable ###
+
+1. Aturan Dasar Penamaan Variabel:
+- Variabel harus dimulai dengan huruf (a-z, A-Z) atau underscore (_) dan tidak boleh dimulai dengan 
+  angka (0-9).
+- Variabel hanya boleh mengandung karakter alfabet, angka, dan underscore.
+- Penamaan variabel bersifat case-sensitive (bedakan antara huruf besar dan kecil).
+
+2. Contoh Penamaan Variabel yang Benar:
+- nama
+- umur
+- nama_depan
+- _variabel_tersembunyi
+- nilai_1
+- NamaBelakang
+
+3. Contoh Penamaan Variabel yang Salah:
+- 2nilai (dimulai dengan angka)
+- nilai$ (menggunakan karakter khusus selain underscore)
+- Nilai Depan (mengandung spasi)
+- class (kata kunci reservasi dalam Python)
+
+4. Konvensi Penamaan yang Disarankan:
+- Gunakan gaya penulisan snake_case untuk penamaan variabel (semua huruf kecil dengan underscore sebagai 
+  pemisah kata).
+- Gunakan nama yang deskriptif untuk variabel agar kode lebih mudah dimengerti (misalnya nama_pengguna 
+  daripada np).
+- Hindari penggunaan nama yang ambigu seperti l (sebagai huruf el) atau O (sebagai huruf oh) untuk variabel.
