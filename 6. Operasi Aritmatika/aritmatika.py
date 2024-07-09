@@ -1,4 +1,5 @@
 import math # untuk bisa gunakan math.ceil/floor
+# https://docs.python.org/3/library/math.html (DOKUMENTASINYA)
 
 a = 12
 b= 2
